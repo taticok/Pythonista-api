@@ -1,0 +1,72 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{26, 58}, {270, 32}}",
+        "class" : "TextField",
+        "attributes" : {
+          "action" : "search",
+          "name" : "textfield1",
+          "frame" : "{{20, 104}, {200, 32}}",
+          "spellchecking_type" : "default",
+          "class" : "TextField",
+          "uuid" : "1554A364-2336-43C4-9121-14B90FF1E8FF",
+          "alignment" : "left",
+          "autocorrection_type" : "default",
+          "font_size" : 17,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{114, 98}, {84, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "search",
+          "frame" : "{{95, 118}, {80, 32}}",
+          "title" : "検索",
+          "uuid" : "B7ACBBEE-9B3E-4943-9DBA-53238242AA30",
+          "class" : "Button",
+          "name" : "button1",
+          "font_size" : 15
+        },
+        "selected" : true
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{39, 18}, {249, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "label1",
+          "frame" : "{{85, 84}, {150, 32}}",
+          "uuid" : "DB94B953-8F6D-4A1B-8BBB-2B56CA721ABD",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "アーティスト名を半角英数で入力してください",
+          "font_size" : 12,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      }
+    ],
+    "frame" : "{{0, 0}, {323, 151}}",
+    "class" : "View",
+    "attributes" : {
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "name" : "spotifyからImageViewするアプリ",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]
